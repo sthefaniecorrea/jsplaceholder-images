@@ -1,0 +1,39 @@
+{
+  "photos": [
+    {
+      "id": 1,
+      "albumId": 1,
+      "title": "Paisagem 1",
+      "url": "https://picsum.photos/seed/pic1/800/600",
+      "thumbnailUrl": "https://picsum.photos/seed/pic1/200/150"
+    },
+    {
+      "id": 2,
+      "albumId": 1,
+      "title": "Paisagem 2",
+      "url": "https://picsum.photos/seed/pic2/800/600",
+      "thumbnailUrl": "https://picsum.photos/seed/pic2/200/150"
+    },
+    {
+      "id": 3,
+      "albumId": 2,
+      "title": "Cidade 1",
+      "url": "https://picsum.photos/seed/pic3/800/600",
+      "thumbnailUrl": "https://picsum.photos/seed/pic3/200/150"
+    },
+    {
+      "id": 4,
+      "albumId": 2,
+      "title": "Cidade 2",
+      "url": "https://picsum.photos/seed/pic4/800/600",
+      "thumbnailUrl": "https://picsum.photos/seed/pic4/200/150"
+    },
+    {
+      "id": 5,
+      "albumId": 3,
+      "title": "Mar 1",
+      "url": "https://picsum.photos/seed/pic5/800/600",
+      "thumbnailUrl": "https://picsum.photos/seed/pic5/200/150"
+    }
+  ]
+}
